@@ -1,26 +1,5 @@
-# Avanta Systems - Sitio web profesional para GitHub Pages
+# Avanta Systems dinámico
 
-## Archivos
-- `index.html`
-- `assets/styles.css`
-- `assets/script.js`
-- `assets/logo.svg`
-- `assets/logo-white.svg`
-- `assets/favicon.svg`
-- `assets/og-image.png`
+Incluye slider principal de 5 imágenes y marcas en slide infinito.
 
-## Publicar en GitHub Pages
-1. Crea un repositorio en GitHub.
-2. Sube todos los archivos de este ZIP.
-3. Ve a Settings > Pages.
-4. Source: Deploy from branch.
-5. Branch: main / root.
-6. Agrega el dominio `avantasystems.net` en Custom Domain.
-
-## Cambios recomendados antes de publicar
-En `index.html`, cambia:
-- `https://wa.me/50760000000` por tu número real de WhatsApp.
-- Si deseas otro correo, reemplaza `info@avantasystems.net`.
-
-## Cloudflare
-Cuando actives GitHub Pages, configura tu dominio en Cloudflare con los registros que GitHub te indique.
+Sube todos los archivos a GitHub Pages.
