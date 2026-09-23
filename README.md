@@ -1,5 +1,15 @@
-# Avanta Systems dinámico
+# Avanta Systems v4
 
-Incluye slider principal de 5 imágenes y marcas en slide infinito.
+Versión orientada a SEO y arquitectura de contenidos.
 
-Sube todos los archivos a GitHub Pages.
+## Incluye
+- Página principal corporativa.
+- Subpáginas de servicios y sectores.
+- Metadata, canonical, Open Graph y Twitter Cards.
+- Schema.org Organization/WebSite.
+- robots.txt y sitemap.xml.
+- Navegación interna entre páginas.
+- Diseño responsive y recursos locales.
+
+## Publicación
+Subir el contenido de este directorio al repositorio de GitHub Pages. Verificar posteriormente el dominio en Google Search Console y enviar `/sitemap.xml`.
